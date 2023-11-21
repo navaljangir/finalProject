@@ -5,7 +5,7 @@
 # testing
 /coverage
 
-/build
+build/gir a
 .DS_Store
 .env.local
 .env.development.local
